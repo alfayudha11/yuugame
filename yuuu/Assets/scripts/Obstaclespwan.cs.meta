@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27891085d8d0c11488fa6d5ca200f1cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kaktus: {fileID: 1574650843007492378, guid: 5794abf515cb34945865f550721e3f4c, type: 3}
+  - duri: {fileID: 2804766034311010952, guid: 63b011c4846aaa040bb5771c2733591c, type: 3}
+  - batu2: {fileID: 3938170888951773595, guid: 7bb2798311d77fa46957e0ce394ddd54, type: 3}
+  - burung: {fileID: 3493853999156895538, guid: 70cd32252b968a1488c67f4b7c4a52b8, type: 3}
+  - pokemon: {fileID: 725861967182044942, guid: 26ceba8a2a06374439ec3d6c48e5aba1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
